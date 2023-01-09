@@ -1,0 +1,37 @@
+.nav {
+    display: flex;
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.left,
+.center,
+.right {
+    
+}
+
+.left {
+    
+}
+
+.welcometext {
+    text-align: center;
+}
+
+.right {
+
+}
+.left {
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    font-family:arial;
+}
+.inline-block {
+    display: inline-block;
+    
+}
